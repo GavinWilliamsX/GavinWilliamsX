@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**GavinWilliamsX/GavinWilliamsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, documented cybersecurity projects focused on **cloud security**, **identity**, and **detection**.
 
-Here are some ideas to get you started:
+I'm targeting roles where I can design controls, investigate alerts, and explain risk clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- Coming first: a failed-login detector and writeups of how I think about detections
+- Next: cloud IAM / Zero Trust lab and an AI security mini-lab
+
+## Skills
+`Linux` `Python` `IAM` `Cloud` `SIEM` `MITRE ATT&CK`
+
+## Currently learning
+- Detection engineering
+- Secure cloud architecture
+- AI security basics
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/GavinWilliamsX) · GavinWilliams.us@gmail.com
